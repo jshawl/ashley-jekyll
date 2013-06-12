@@ -202,20 +202,15 @@
       .pagination a {
         display: block;
         height: 3em;
-        padding: 0 1em;
         border-radius: 0.25em;
       }
       
-      .pagination a:hover {
-        background: #eee;
-        text-decoration: none;
-      }
       
-      .pagination .previous {
+      .pagination .newer {
         float: left;
       }
       
-      .pagination .next {
+      .pagination .older {
         float: right;
       }
 

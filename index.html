@@ -3,7 +3,7 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <article class='post {{post.type}}'>
   	{% if post.type == 'text' %}
     <a href='{{post.url}}' class='post-title'><h2>{{post.title}}</h2></a>
@@ -21,9 +21,24 @@ title: Your New Jekyll Site
 			{{ post.date | date: "%B %d, %Y" }}</a>
 		</li>
 	</ul>
-								
-								
-															
-							</footer>
+</footer>
   </article>
 {% endfor %}
+
+<div class='pagination'>
+        {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+            <a class='p newer' href="/">« Newer</a>
+        {% else %}
+            <a class='p newer' href="/page{{paginator.previous_page}}">« Newer</a>
+        {% endif %}
+        {% else %}
+            
+        {% endif %}
+
+        {% if paginator.next_page %}
+            <a class='p older' href="/page{{paginator.next_page}}">Older »</a>
+        {% else %}
+            
+        {% endif %}
+</div>
