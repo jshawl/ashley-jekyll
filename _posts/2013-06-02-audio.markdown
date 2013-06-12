@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "It All Started With a Smile – Microbeats 2012 Mix"
+date:   2013-06-02
+type: audio
+---
+<iframe class="tumblr_audio_player tumblr_audio_player_47203474331" src="http://readashley.tumblr.com/post/47203474331/audio_player_iframe/readashley/tumblr_mksmfdOiAr1qzpuhm?audio_file=http%3A%2F%2Fwww.tumblr.com%2Faudio_file%2Freadashley%2F47203474331%2Ftumblr_mksmfdOiAr1qzpuhm&amp;color=white" frameborder="0" allowtransparency="true" scrolling="no" width="640" height="169" style="-webkit-transform: translate3d(0px, 0px, 0px);">
+</iframe>
+							
+<p><a class="tumblr_blog" href="http://jxnblk.tumblr.com/post/47203197218/trying-to-get-the-new-audio-player-to-work">jxnblk</a>:</p>
+<blockquote>
+<p>Trying to get the new audio player to work.</p>
+</blockquote>

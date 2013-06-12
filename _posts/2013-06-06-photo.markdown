@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-06
+type: photo
+---
+<a href="http://www.teenageengineering.com/studio">
+    <img src="http://24.media.tumblr.com/tumblr_mch1315tG71qz73h0o1_1280.jpg" alt="This makes me want to rethink my apartment’s interior design.">           
+</a>
+<p>This makes me want to rethink my apartment’s interior design.</p>

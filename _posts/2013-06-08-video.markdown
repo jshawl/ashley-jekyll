@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-08
+type: video
+---
+
+<iframe src="http://player.vimeo.com/video/52316073" width="700" height="393" frameborder="0">
+</iframe>
+
+<p>Watch this product video if only for the music itself.</p>

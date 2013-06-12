@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-04
+type: photo
+---
+<div id="photoset_47600402177" class="html_photoset">    
+	<iframe id="photoset_iframe_47600402177" class="photoset" scrolling="no" frameborder="0" height="1079" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="http://readashley.tumblr.com/post/47600402177/photoset_iframe/readashley/tumblr_ml0w135Z2m1s5cdlu/500/false">
+	</iframe>
+</div>
+<p>A photoset</p>

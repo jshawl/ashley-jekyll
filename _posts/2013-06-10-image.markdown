@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-10
+type: photo
+---
+
+<a href="http://readashley.tumblr.com/image/44646467892">
+    <img src="http://24.media.tumblr.com/b8efd11c3f70b8ba3aa07c32acf2c5a0/tumblr_mj7f6cSpF71s5cdluo1_1280.jpg" alt="">           
+</a>

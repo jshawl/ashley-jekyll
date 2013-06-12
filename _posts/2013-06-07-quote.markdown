@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-07
+type: quote
+---
+<blockquote>
+	<p class="h3">“Rather than send a message back to my younger self, I would destroy the message-sending technology immediately. The potential for universe-ending paradoxes is too great.”</p>
+	<p class="source">– Jeremy Keith</p>
+</blockquote>

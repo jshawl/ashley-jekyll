@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Image"
+date:   2013-06-05
+type: photo
+---
+<a href="http://jxnblk.com/twipster">
+    <img src="http://24.media.tumblr.com/b5c3bca6aa917f5e8929ba6695959950/tumblr_misiiaWSZw1qzpuhmo1_1280.png" alt="jxnblk:
+
+I made a browser extension for Twitter to make it slightly simpler and readabler. Check it out: Twipster.">           
+							</a>
+
+<p><a href="http://jxnblk.tumblr.com/post/43996909668/i-made-a-browser-extension-for-twitter-to-make-it" class="tumblr_blog">jxnblk</a>:</p>
+
+<blockquote><p>I made a browser extension for Twitter to make it slightly simpler and readabler. Check it out: <a href="http://jxnblk.com/twipster">Twipster</a>.</p></blockquote>
