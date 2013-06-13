@@ -2,4 +2,4 @@ name: Ashley
 description: A Readable & Responsive Theme for Jekyll
 pygments: true
 paginate: 5
-BASE_PATH : /ashley-jekyll
+BASE_PATH : http://jshawl.github.io/ashley-jekyll
