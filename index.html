@@ -6,11 +6,11 @@ title: Your New Jekyll Site
 {% for post in paginator.posts %}
   <article class='post {{post.type}}'>
   	{% if post.type == 'text' %}
-    <a href='{{post.url}}' class='post-title'><h2>{{post.title}}</h2></a>
+    <a href='{{site.url}}{{post.url}}' class='post-title'><h2>{{post.title}}</h2></a>
     {% endif %}
    {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
-    <a href="{{post.url}}" class="p">Read More »</a>
+    <a href="{{site.url}}{{post.url}}" class="p">Read More »</a>
   {% else %}
     {{ post.content }}
   {% endif %}
